@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1680615045 source:c:\users\perdorues\onedrive\desktop\software engineering 101\area-perimeter\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
